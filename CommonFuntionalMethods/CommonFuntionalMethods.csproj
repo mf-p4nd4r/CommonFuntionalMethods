@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Yawar.Pandar</Authors>
+    <Company>Theherd-Corp</Company>
+    <Description>Common funtional methods</Description>
+    <PackageIcon>icon_notification.png</PackageIcon>
+    <PackageId>CommonFuntionalMethods</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EnterpriseLibrary.ExceptionHandling.NetCore" Version="6.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="icon_notification.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
