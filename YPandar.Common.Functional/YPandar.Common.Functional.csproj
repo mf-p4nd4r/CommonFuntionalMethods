@@ -2,15 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <Authors>Yawar.Pandar</Authors>
     <Company>Theherd-Corp</Company>
     <Description>Some methods that I am starting to use in projects as a short introduction to functional programming.
 
 Source: https://github.com/YawarPandar/CommonFuntionalMethods</Description>
       <PackageIcon>icon_notification.png</PackageIcon>
-      <PackageId>YPandar.Common.Funtional</PackageId>
-      <Product>YPandar.Common.Funtional</Product>
+      <PackageId>YPandar.Common.Functional</PackageId>
+      <Product>YPandar.Common.Functional</Product>
     </PropertyGroup>
     <ItemGroup>
       <None Include="icon_notification.png">

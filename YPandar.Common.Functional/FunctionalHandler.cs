@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Collections.Concurrent;
 using Microsoft.Practices.EnterpriseLibrary.ExceptionHandling;
 
-namespace YPandar.Common.Funtional
+namespace YPandar.Common.Functional
 {
     public class FunctionalHandler
     {
