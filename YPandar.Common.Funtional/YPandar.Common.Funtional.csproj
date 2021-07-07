@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Version>1.0.2</Version>
+    <Authors>Yawar.Pandar</Authors>
+    <Company>Theherd-Corp</Company>
+    <Description>Some methods that I am starting to use in projects as a short introduction to functional programming.
+
+Source: https://github.com/YawarPandar/CommonFuntionalMethods</Description>
+      <PackageIcon>icon_notification.png</PackageIcon>
+      <PackageId>YPandar.Common.Funtional</PackageId>
+      <Product>YPandar.Common.Funtional</Product>
+    </PropertyGroup>
+    <ItemGroup>
+      <None Include="icon_notification.png">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+      </None>
+    </ItemGroup>
+    <ItemGroup>
+      <PackageReference Include="EnterpriseLibrary.ExceptionHandling.NetCore" Version="6.3.0" />
+      <PackageReference Include="NuGet.CommandLine" Version="5.9.1">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+    </ItemGroup>
+</Project>
