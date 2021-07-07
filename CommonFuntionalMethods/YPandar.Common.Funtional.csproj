@@ -13,14 +13,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="EnterpriseLibrary.ExceptionHandling.NetCore" Version="6.3.0" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="icon_notification.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EnterpriseLibrary.ExceptionHandling.NetCore" Version="6.3.0" />
   </ItemGroup>
 
 </Project>
