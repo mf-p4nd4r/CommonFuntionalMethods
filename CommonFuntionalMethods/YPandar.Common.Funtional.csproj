@@ -6,7 +6,8 @@
     <Authors>Yawar.Pandar</Authors>
     <Company>Theherd-Corp</Company>
     <Description>Some methods that I am starting to use in projects as a short introduction to functional programming.
-    </Description>
+
+Source: https://github.com/YawarPandar/CommonFuntionalMethods</Description>
       <PackageIcon>icon_notification.png</PackageIcon>
       <PackageId>YPandar.Common.Funtional</PackageId>
       <Product>YPandar.Common.Funtional</Product>
