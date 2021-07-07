@@ -26,5 +26,5 @@ jobs:
     - name: Publish
       uses: brandedoutcast/publish-nuget@v2.5.5
       with:
-        PROJECT_FILE_PATH: CommonFuntionalMethods/YPandar.Common.Funtional.csproj
+        PROJECT_FILE_PATH: YPandar.Common.Funtional/YPandar.Common.Funtional.csproj
         NUGET_KEY: ${{secrets.NUGET_API_KEY}}
