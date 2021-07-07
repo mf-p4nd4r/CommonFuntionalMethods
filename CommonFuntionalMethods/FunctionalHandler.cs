@@ -8,9 +8,9 @@ using Microsoft.Practices.EnterpriseLibrary.ExceptionHandling;
 
 namespace CommonFuntionalMethods
 {
-    public class Handler
+    public class FunctionalHandler
     {
-        public static string PolicyName { get; set; }
+        public static string PolicyName { get; set; } = "Propagate Policy";
         public static Action DoNothing() { return () => { }; }
         public static void ExecuteAction(Action action)
         {

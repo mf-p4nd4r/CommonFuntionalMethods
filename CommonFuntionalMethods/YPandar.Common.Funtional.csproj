@@ -4,9 +4,12 @@
     <TargetFramework>net5.0</TargetFramework>
     <Authors>Yawar.Pandar</Authors>
     <Company>Theherd-Corp</Company>
-    <Description>Common funtional methods</Description>
+    <Description>Some methods that I am starting to use in projects as a short introduction to functional programming.
+
+</Description>
     <PackageIcon>icon_notification.png</PackageIcon>
-    <PackageId>CommonFuntionalMethods</PackageId>
+    <PackageId>YPandar.Common.Funtional</PackageId>
+    <Product>YPandar.Common.Funtional</Product>
   </PropertyGroup>
 
   <ItemGroup>

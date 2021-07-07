@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonFuntionalMethods", "CommonFuntionalMethods\CommonFuntionalMethods.csproj", "{85EADF58-3889-4B0B-9EF8-57A7E39C6C49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YPandar.Common.Funtional", "CommonFuntionalMethods\YPandar.Common.Funtional.csproj", "{85EADF58-3889-4B0B-9EF8-57A7E39C6C49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
