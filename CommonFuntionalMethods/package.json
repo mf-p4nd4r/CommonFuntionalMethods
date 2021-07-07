@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/YawarPandar/CommonFuntionalMethods/issues"
   },
-  "homepage": "https://github.com/YawarPandar/CommonFuntionalMethods#readme"
+  "homepage": "https://github.com/YawarPandar/CommonFuntionalMethods#readme",
+  "publishConfig": {
+    "YawarPandar:registry": "https://npm.pkg.github.com"
+  }
 }
