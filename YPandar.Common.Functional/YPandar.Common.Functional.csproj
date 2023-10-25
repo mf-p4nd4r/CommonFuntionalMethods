@@ -20,7 +20,7 @@ Source: https://github.com/YawarPandar/CommonFuntionalMethods</Description>
     </ItemGroup>
     <ItemGroup>
       <PackageReference Include="EnterpriseLibrary.ExceptionHandling.NetCore" Version="6.3.0" />
-      <PackageReference Include="NuGet.CommandLine" Version="5.9.1">
+      <PackageReference Include="NuGet.CommandLine" Version="6.7.0">
         <PrivateAssets>all</PrivateAssets>
         <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       </PackageReference>
